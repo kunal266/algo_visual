@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kunal266.github.io
+Token: 24232c3aa6a0014e65d5b3dd068a2abe6a8d6474b60cf217a392c20a42dc750d
